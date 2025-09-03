@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Ajanta Caves",
+    "lat": 20.551,
+    "lng": 75.703,
+    "description": "Buddhist rock-cut caves with murals and sculptures from 2nd century BCE to 6th century CE. The Ajanta paintings depict Jataka tales and Buddhist themes.",
+    "image": "images/ajanta.png",
+    "era": "Ancient"
+  },
+  {
+    "name": "Sanchi Stupa",
+    "lat": 23.482,
+    "lng": 77.737,
+    "description": "A 3rd century BCE Buddhist stupa famous for its sculptural gateways and carvings depicting scenes from Buddha's life.",
+    "image": "images/sanchi.png",
+    "era": "Ancient"
+  },
+  {
+    "name": "Ellora Caves",
+    "lat": 20.026,
+    "lng": 75.179,
+    "description": "A complex of 34 rock-cut temples from 5th to 10th century CE, featuring Buddhist, Hindu, and Jain art. Known for Kailasa temple, the largest monolithic rock excavation in the world.",
+    "image": "images/ellora.png",
+    "era": "Ancient"
+  },
+  {
+    "name": "Brihadeeswarar Temple",
+    "lat": 10.782,
+    "lng": 79.131,
+    "description": "Built in the 11th century in Thanjavur, Tamil Nadu, it features massive Dravidian architecture and intricate frescoes of Chola art.",
+    "image": "images/brihadeeswarar.png",
+    "era": "Ancient"
+  },
+  {
+    "name": "Khajuraho Temples",
+    "lat": 24.831,
+    "lng": 79.922,
+    "description": "Famous for medieval Hindu and Jain temples with elaborate erotic sculptures and carvings from 10th–12th century CE.",
+    "image": "images/khajuraho.png",
+    "era": "Medieval"
+  },
+  {
+    "name": "Tanjore Paintings",
+    "lat": 10.787,
+    "lng": 78.704,
+    "description": "Richly adorned paintings from Tamil Nadu, 16th–18th centuries, often featuring Hindu deities in vibrant colors with gold foil.",
+    "image": "images/tanjore.png",
+    "era": "Medieval"
+  },
+  {
+    "name": "Jaipur Miniature Art",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "description": "Rajasthani miniature paintings with intricate details, vibrant colors, and depiction of royal life during the 17th–19th centuries.",
+    "image": "images/jaipur.png",
+    "era": "Medieval"
+  },
+  {
+    "name": "Delhi Mughal Art",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "description": "Mughal-era architecture and paintings blending Persian and Indian styles, highlighting court scenes, floral patterns, and portraiture.",
+    "image": "images/delhi.png",
+    "era": "Medieval"
+  },
+  {
+    "name": "Contemporary Street Art, Mumbai",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "description": "Modern urban art scene featuring murals and graffiti in Mumbai’s streets, showcasing Indian culture, social themes, and modern artistic expression.",
+    "image": "images/mumbai_street_art.png",
+    "era": "Modern"
+  },
+  {
+    "name": "Kharagpur Folk Art",
+    "lat": 22.346,
+    "lng": 87.231,
+    "description": "Traditional West Bengal folk art, including Patachitra painting on cloth, celebrating mythological tales and village life in modern adaptations.",
+    "image": "images/kharagpur.png",
+    "era": "Modern"
+  }
+]
